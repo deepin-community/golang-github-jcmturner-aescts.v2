@@ -1,5 +1,13 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-jcmturner-aescts.v2 (2.0.0-2) unstable; urgency=medium
 
-  * Initial release
+  * Source-only upload to allow migration to testing
+  * Fix VCS locations
+  * Override for Lintian bug #1014885
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Matthew Vernon <matthew@debian.org>  Wed, 07 Dec 2022 14:39:11 +0000
+
+golang-github-jcmturner-aescts.v2 (2.0.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1025470)
+
+ -- Matthew Vernon <matthew@debian.org>  Mon, 05 Dec 2022 11:37:22 +0000
